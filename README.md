@@ -1,2 +1,3 @@
-# pesona-nglorok
-Website for Pesona Nglorok
+# Pesona Nglorok
+
+Repository for Pesona Nglorok Website development
